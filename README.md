@@ -30,5 +30,5 @@ HbA1c_level (Glycated Hemoglobin)
 blood_glucose_level (Fasting blood sugar level)
 
 **Note**
-      Copy all files. Upload on your code Enviroment (vc_code...etc?)
-      and open Test File it will already have a seted function.
+      Copy all files. Upload on your code Enviroment (vs_code...etc?)
+      And open Test File it have already seted function for test.
