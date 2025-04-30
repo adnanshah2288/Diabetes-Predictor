@@ -28,3 +28,7 @@ bmi (Body Mass Index)
 HbA1c_level (Glycated Hemoglobin)
 
 blood_glucose_level (Fasting blood sugar level)
+
+**Note**
+      Copy all files. Upload on your code Enviroment (vc_code...etc?)
+      and open Test File it will already have a seted function.
